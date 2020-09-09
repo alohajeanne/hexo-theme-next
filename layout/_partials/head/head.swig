@@ -28,6 +28,7 @@
 {%- endif %}
 {%- if theme.google_site_verification %}
   <meta name="google-site-verification" content="{{ theme.google_site_verification }}">
+  <script data-ad-client="ca-pub-1004184707911196" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 {%- endif %}
 {%- if theme.bing_site_verification %}
   <meta name="msvalidate.01" content="{{ theme.bing_site_verification }}">

@@ -178,16 +178,16 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   #GitHub: https://github.com/yourname || fab fa-github
-  #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  E-Mail: mailto:hi@alohajeanne.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
-  Bilibili: https://space.bilibili.com/34680975 || tv
-  YouTube: https://www.youtube.com/channel/UCND_7DhhGjhfRK7lccqAtQw || youtube
-  Instagram: https://www.instagram.com/jeanne920 || instagram
-  Weibo: https://weibo.com/206785960 || weibo
+  Bilibili: https://space.bilibili.com/34680975 || fa fa-bold
+  YouTube: https://www.youtube.com/channel/UCND_7DhhGjhfRK7lccqAtQw || fab fa-youtube
+  Instagram: https://www.instagram.com/jeanne920 || fab fa-instagram
+  Weibo: https://weibo.com/206785960 || fab fa-weibo
 
 social_icons:
   enable: true
